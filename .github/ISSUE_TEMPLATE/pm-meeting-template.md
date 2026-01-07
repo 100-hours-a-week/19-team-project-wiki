@@ -2,7 +2,7 @@
 name: PM-Meeting-Template
 about: PM 미팅 템플릿
 title: ''
-labels: 미팅
+labels: ''
 assignees: ''
 
 ---
