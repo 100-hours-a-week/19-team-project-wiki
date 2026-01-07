@@ -1,9 +1,9 @@
 ---
 name: Minutes-Template
 about: 회의록 템플릿
-title: 회의 제목
+title: "[회의 주제]"
 labels: Minutes
-assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, cozyrim, yseo14, Eeeegarden
+assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 ---
 
@@ -23,21 +23,13 @@ assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, cozyrim, yseo14, Eeeegarden
 
 <br/>
 
-## 아젠다
-> 회의를 통해 달성해야 할 핵심 목표 작성
+## 아젠다 및 논의 내용
+> 회의를 통해 달성해야 할 핵심 목표 및 논의된 주요 내용 작성
 
-- 예) 안건 1: 제목
-- ...
-
-<br/>
-
-## 논의 내용
-> 회의를 통해 논의된 주요 내용 작성
-
-- 예) 안건 1: 제목
+- 예) ## 안건 1: 제목
     - 논의 배경 및 주요 의견
     - 선택된 대안과 그 이유
-- 예) 안건 2: 제목
+- 예) ## 안건 2: 제목
     - 논의 배경 및 주요 의견
 
 <br/>
