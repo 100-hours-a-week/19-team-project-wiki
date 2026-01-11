@@ -1,9 +1,18 @@
+---
+name: PL-Meeting-Template
+about: PL 미팅 템플릿
+title: PL 미팅 (XX X주차)
+labels: Meeting
+assignees: ''
+
+---
+
 ## 기본 정보
 - 팀명:
 - 미팅 일시:
 - 미팅 회차: (예: 3주차 2회차)
 - 참여 인원:
-- 
+
 ---
 
 ## 1. 이전 PL 미팅 이후 구현 내용 (완료)
