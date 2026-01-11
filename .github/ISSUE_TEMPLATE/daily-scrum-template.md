@@ -3,7 +3,7 @@ name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
 title: 데일리 스크럼
 labels: Daily-Scrum
-assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, cozyrim, yseo14, Eeeegarden
+assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 ---
 

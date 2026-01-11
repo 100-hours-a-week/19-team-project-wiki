@@ -3,14 +3,14 @@ name: Townhall-Weekly-Meeting-Template
 about: 타운홀 주간 미팅 템플릿
 title: 타운홀 주간 미팅 (XX X주차)
 labels: Meeting
-assignees: ''
+assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, cozyrim, yseo14, Eeeegarden
 
 ---
 
 # 타운홀 주간 미팅 발표자료
 
-**기간**: [YYYY-MM-DD] ~ [YYYY-MM-DD]  
-**작성일**: [YYYY-MM-DD]
+**기간**: [YYYY.MM.DD]
+**작성일**: [YYYY.MM.DD]
 
 ---
 
