@@ -2,7 +2,7 @@
 name: Minutes-Template
 about: 회의록 템플릿
 title: "[회의 주제]"
-labels: Minutes
+labels: ''
 assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 ---

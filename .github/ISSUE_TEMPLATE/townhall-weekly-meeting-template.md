@@ -2,7 +2,7 @@
 name: Townhall-Weekly-Meeting-Template
 about: 타운홀 주간 미팅 템플릿
 title: 타운홀 주간 미팅 (XX X주차)
-labels: Meeting
+labels: ''
 assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 ---

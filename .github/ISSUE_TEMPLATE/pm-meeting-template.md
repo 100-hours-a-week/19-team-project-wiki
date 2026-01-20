@@ -2,8 +2,8 @@
 name: PM-Meeting-Template
 about: PM 미팅 템플릿
 title: PM 미팅 (XX X주차)
-labels: Meeting
-assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, cozyrim, yseo14, Eeeegarden
+labels: ''
+assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 ---
 

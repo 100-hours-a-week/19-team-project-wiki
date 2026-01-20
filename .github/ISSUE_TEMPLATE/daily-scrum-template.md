@@ -2,7 +2,7 @@
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
 title: 데일리 스크럼
-labels: Daily-Scrum
+labels: ''
 assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 ---

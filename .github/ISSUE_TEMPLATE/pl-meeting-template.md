@@ -2,7 +2,7 @@
 name: PL-Meeting-Template
 about: PL 미팅 템플릿
 title: PL 미팅 (XX X주차)
-labels: Meeting
+labels: ''
 assignees: ''
 
 ---
