@@ -3,7 +3,7 @@ name: Townhall-Weekly-Meeting-Template
 about: 타운홀 주간 미팅 템플릿
 title: 타운홀 주간 미팅 (XX X주차)
 labels: ''
-assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
+assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, yseo14, Eeeegarden
 
 ---
 
@@ -15,7 +15,7 @@ assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
 
 | **팀** | **진행 단계** | **완료 또는 보완 중인 단계** |
 | --- | --- | --- |
-| **Cloud** <br>(Kobe, Bella, Daniel) | - | - |
+| **Cloud** <br>(Kobe, Daniel) | - | - |
 | **AI** <br>(Chloe) | - | - |
 | **Frontend** <br>(Juncci) | - | - |
 | **Backend** <br>(Eden) | - | - |

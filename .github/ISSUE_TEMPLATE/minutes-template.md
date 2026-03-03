@@ -3,7 +3,7 @@ name: Minutes-Template
 about: 회의록 템플릿
 title: "[회의 주제]"
 labels: ''
-assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
+assignees: gyur2, Min-su-Jeong, Debuging-JunSeoPark, yseo14, Eeeegarden
 
 ---
 
@@ -16,7 +16,6 @@ assignees: cozyrim, Debuging-JunSeoPark, Eeeegarden, gyur2, Min-su-Jeong, yseo14
   | --- | --- | --- | --- |
   | Cloud | Daniel | O | - |
   | Cloud | Kobe | O | - |
-  | Cloud | Bella | O | - |
   | AI | Chloe | O | - |
   | FE | Juncci | O | - |
   | BE | Eden | O | - |
